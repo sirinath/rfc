@@ -1,12 +1,12 @@
 ---
 domain: 
 shortname: 
-name: Collective Code Construction Contract
+name: Simplified Collective Code Construction Contract
 status: stable
 editor: Pieter Hintjens <ph@imatix.com>, Suminda Sirinath Salpitikorala Dharmasena <sirinath1978m@gmail.com>
 ---
 
-The Collective Code Construction Contract (C4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision 2 of the C4 specification and deprecates RFC 22.
+The Simplified Collective Code Construction Contract (SC4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision of the C4 specification (RFC 42) by ZeroMQ.
 
 ## License
 
