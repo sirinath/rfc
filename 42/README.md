@@ -1,16 +1,17 @@
 ---
-domain: rfc.zeromq.org
-shortname: 42/C4
+domain: 
+shortname: 
 name: Collective Code Construction Contract
 status: stable
-editor: Pieter Hintjens <ph@imatix.com>
+editor: Pieter Hintjens <ph@imatix.com>, Suminda Sirinath Salpitikorala Dharmasena <sirinath1978m@gmail.com>
 ---
 
 The Collective Code Construction Contract (C4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision 2 of the C4 specification and deprecates RFC 22.
 
 ## License
 
-Copyright (c) 2009-2016 Pieter Hintjens.
+Copyright (c) 2009-2016 Pieter Hintjens, 
+Copyright (c) 2016 Suminda Sirinath Salpitikorala Dharmasena.
 
 This Specification is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
@@ -49,7 +50,7 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 
 ### 2.2. Licensing and Ownership
 
-1. The project SHALL use a share-alike license such as the MPLv2, or a GPLv3 variant thereof (GPL, LGPL, AGPL).
+1. The project SHALL use an [OSI](https://opensource.org/) approved license as the Project License and MUST maintain all contribution under the chosen Project License.
 1. All contributions to the project source code ("patches") SHALL use the same license as the project.
 1. All patches are owned by their authors. There SHALL NOT be any copyright assignment process.
 1. Each Contributor SHALL be responsible for identifying themselves in the project Contributor list.
