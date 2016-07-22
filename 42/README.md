@@ -43,7 +43,8 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 1. The project SHALL use the Platform issue tracker.
 1. The project SHOULD have clearly documented guidelines for code style.
 1. The project SHOULD have clearly identified License or Licenses, herein called the "Project License(s)".
-1. The project SHOULD have artifacts hosted in publicly accesible project repositer(y/ies) in the Platform, herein called the "Repositor(y/ies)".
+1. The project SHOULD have the project source code, documentation and other artifacts hosted in publicly accesible project repositer(y/ies) in the Platform, herein called the "Repositor(y/ies)".
+1. The project SHOULD clearly identify all Repositor(y/ies) belonging to the project either in the documentation of collectively hosting them under an grouping or collection identified as an Organisation in the Platform
 1. A "Contributor" is a person who wishes to provide a patch, being a set of commits that solve some clearly identified problem.
 1. A "Maintainer" is a person who merges patches to the project. Maintainers are not developers; their job is to enforce process.
 1. Contributors SHALL NOT have commit access to the repository unless they are also Maintainers.
@@ -54,7 +55,7 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 
 1. The project SHALL use an [OSI](https://opensource.org/) approved license(s) as the Project License(s).
 1. The project MUST maintain all contributions in the Repositor(y/ies) under the specified Project License(s).
-1. Any change to the Project License(s) in the Repositor(y/ies) require approval of all Contributors and Maintainers
+1. Any change to the Project License(s) in the any of the project Repositor(y/ies) require approval of all Contributors and Maintainers of the project
 1. All contributions to the project source code ("patches") SHALL use the same Project License(s) as the project.
 1. All patches are owned by their authors. There SHALL NOT be any copyright assignment process.
 1. Each Contributor SHALL be responsible for identifying themselves in the project Contributor list.
