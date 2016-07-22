@@ -25,7 +25,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## 1. Goals
 
-C4 is meant to provide a reusable optimal collaboration model for open source software projects. It has these specific goals:
+SC4 is meant to provide a reusable optimal collaboration model for open source software projects. It has these specific goals:
 
 1. To maximize the scale and diversity of the community around a project, by reducing the friction for new Contributors and creating a scaled participation model with strong positive feedbacks;
 1. To relieve dependencies on key individuals by separating different skill sets so that there is a larger pool of competence in any required domain;
