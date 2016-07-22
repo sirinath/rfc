@@ -2,11 +2,11 @@
 domain: 
 shortname: 
 name: Simplified Collective Code Construction Contract
-status: stable
+status: draft
 editor: Pieter Hintjens <ph@imatix.com>, Suminda Sirinath Salpitikorala Dharmasena <sirinath1978m@gmail.com>
 ---
 
-The Simplified Collective Code Construction Contract (SC4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision of the C4 specification (RFC 42) by ZeroMQ.
+The Simplified Collective Code Construction Contract (SC4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision of the C4 specification (RFC 42) by ZeroMQ to accomodate any OSI approved license.
 
 ## License
 
@@ -50,7 +50,8 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 
 ### 2.2. Licensing and Ownership
 
-1. The project SHALL use an [OSI](https://opensource.org/) approved license as the Project License and MUST maintain all contribution under the chosen Project License.
+1. The project SHALL use an [OSI](https://opensource.org/) approved license as the Project License
+1. The project MUST maintain all contributions in a publicly asccesible repositery in the Platform under the specified Project License.
 1. All contributions to the project source code ("patches") SHALL use the same license as the project.
 1. All patches are owned by their authors. There SHALL NOT be any copyright assignment process.
 1. Each Contributor SHALL be responsible for identifying themselves in the project Contributor list.
