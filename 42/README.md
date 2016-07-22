@@ -6,7 +6,7 @@ status: draft
 editor: Pieter Hintjens <ph@imatix.com>, Suminda Sirinath Salpitikorala Dharmasena <sirinath1978m@gmail.com>
 ---
 
-The Simplified Collective Code Construction Contract (SC4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision of the C4 specification (RFC 42) by ZeroMQ to accomodate any OSI approved license.
+The Simplified Collective Code Construction Contract (SC4) is an evolution of the github.com [Fork + Pull Model](http://help.github.com/send-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision of the C4 specification (RFC 42) by ZeroMQ to accommodate any OSI approved license.
 
 ## License
 
@@ -43,7 +43,7 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 1. The project SHALL use the Platform issue tracker.
 1. The project SHOULD have clearly documented guidelines for code style.
 1. The project SHOULD have clearly identified License or Licenses, herein called the "Project License(s)".
-1. The project SHOULD have the project source code, documentation and other artifacts hosted in publicly accesible project repositer(y/ies) in the Platform, herein called the "Repositor(y/ies)".
+1. The project SHOULD have the project source code, documentation and other artifacts hosted in publicly accessible project repositor(y/ies) in the Platform, herein called the "Repositor(y/ies)".
 1. The project SHOULD clearly identify all Repositor(y/ies) belonging to the project either in the documentation of collectively hosting them under an grouping or collection identified as an Organisation in the Platform
 1. A "Contributor" is a person who wishes to provide a patch, being a set of commits that solve some clearly identified problem.
 1. A "Maintainer" is a person who merges patches to the project. Maintainers are not developers; their job is to enforce process.
@@ -90,7 +90,7 @@ C4 is meant to provide a reusable optimal collaboration model for open source so
 1. Maintainers SHALL merge correct patches from other Contributors rapidly.
 1. Maintainers MAY merge incorrect patches from other Contributors with the goals of (a) ending fruitless discussions, (b) capturing toxic patches in the historical record, (c) engaging with the Contributor on improving their patch quality.
 1. The user who created an issue SHOULD close the issue after checking the patch is successful.
-1. Any Contributor who has value judgments on a patch SHOULD express these via their own patches.
+1. Any Contributor who has value judgements on a patch SHOULD express these via their own patches.
 1. Maintainers SHOULD close user issues that are left open without action for an uncomfortable period of time.
 
 ### 2.5. Branches and Releases
